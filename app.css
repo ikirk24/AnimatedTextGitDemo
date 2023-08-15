@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+h1 {
+    font-size: 15rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.letter {
+    transition: 1000ms;
+}
+
+h2 {
+    display: flex;
+    justify-content: baseline;
+}
